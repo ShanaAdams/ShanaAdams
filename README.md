@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on mobile and web apps
 - 📫 How to reach me: shana.adams10@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like creating animations in CSS.
+- ⚡ Fun fact: I use consumer behaviour psychology in my ui/ux designs
 
 <!---
 ShanaAdams/ShanaAdams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
